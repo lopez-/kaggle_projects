@@ -1,0 +1,31 @@
+
+
+
+interesting questions:
+gender q1
+diff tools women and mean q12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 27, 28, 29, 30, 31, 32, 33, 36, 37
+age q2
+coding hrs q23
+exp q24, q25, q8
+geography q3
+data scientist? q26
+time spent cleaning data q34
+self taught q35
+up to date sources q38
+quality perceival q39
+education q4, q5
+perception experience q40
+perception importance ml factors q41
+decision making process q42, 43, 44, 45, 46, 47
+practical or theoretical q48
+reproducibility q49, 50
+industry q7
+salary q9
+
+
+
+
+
+
+
+
