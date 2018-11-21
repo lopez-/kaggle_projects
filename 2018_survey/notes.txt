@@ -12,7 +12,7 @@ data scientist? q26
 time spent cleaning data q34
 self taught q35
 up to date sources q38
-quality perceival q39
+quality perceival online learning q39
 education q4, q5
 perception experience q40
 perception importance ml factors q41
