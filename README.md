@@ -11,3 +11,10 @@ Analyze 2018 Kaggle survey results ([link](https://www.kaggle.com/kaggle/kaggle-
 ```
 kaggle datasets download -d kaggle/kaggle-survey-2018
 ```
+
+## huffington_news_category
+Categorize news headline into different topics ([link](https://www.kaggle.com/rmisra/news-category-dataset/home)).
+
+```
+kaggle datasets download -d rmisra/news-category-dataset
+```
