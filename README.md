@@ -18,3 +18,10 @@ Categorize news headline into different topics ([link](https://www.kaggle.com/rm
 ```
 kaggle datasets download -d rmisra/news-category-dataset
 ```
+
+## nyc_taxi
+Predict NY city taxi trip duration ([link](https://www.kaggle.com/c/nyc-taxi-trip-duration)).
+
+```
+kaggle competitions download -c nyc-taxi-trip-duration
+```
