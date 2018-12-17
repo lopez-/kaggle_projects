@@ -1,0 +1,11 @@
+{
+    "tensorboard_logs":"...",
+    "boto":{
+        "aws_access_key_id":"...",
+        "aws_secret_access_key":"...",
+        "region":"...",
+        "buckets":{
+            "kaggle":"..."
+        }
+    }
+}
