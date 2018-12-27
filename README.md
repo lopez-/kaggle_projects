@@ -25,3 +25,10 @@ Predict NY city taxi trip duration ([link](https://www.kaggle.com/c/nyc-taxi-tri
 ```
 kaggle competitions download -c nyc-taxi-trip-duration
 ```
+
+## quora
+Predict if a question in Quota is incensere or not ([link](https://www.kaggle.com/c/quora-insincere-questions-classification)).
+
+```
+kaggle competitions download -c quora-insincere-questions-classification
+```
