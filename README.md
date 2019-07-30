@@ -25,3 +25,15 @@ Predict NY city taxi trip duration ([link](https://www.kaggle.com/c/nyc-taxi-tri
 ```
 kaggle competitions download -c nyc-taxi-trip-duration
 ```
+
+## playground sales
+Predict sales quantity ([link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales))
+
+```
+kaggle competitions download -c competitive-data-science-predict-future-sales
+```
+
+## titanic
+```
+kaggle competitions download -c titanic
+```
