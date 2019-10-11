@@ -37,3 +37,8 @@ kaggle competitions download -c competitive-data-science-predict-future-sales
 ```
 kaggle competitions download -c titanic
 ```
+
+### santander value prediction
+```
+kaggle competitions download -c santander-value-prediction-challenge
+```
